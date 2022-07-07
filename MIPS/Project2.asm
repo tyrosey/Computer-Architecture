@@ -1,6 +1,6 @@
 # Tyler Rose
-#Project 02: CS 286
-#This MIPS program takes an image input and compresses it
+# Project 02: CS 286
+# This MIPS program takes an image input and compresses it
 
 
 ##################################
