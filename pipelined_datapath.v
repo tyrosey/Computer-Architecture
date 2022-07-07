@@ -6,6 +6,9 @@
 // Date: 04/19/22
 // Description: datapath top level module
 //
+// Note: Each model was made throughout the semester during different labs, all
+// building up to this final lab. All modules are included here.
+//
 //////////////////////////////////////////////////////////////////////////////////
 
 module pipelined_datapath(
